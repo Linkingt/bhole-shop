@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.bhole.shop.common.swagger.config.SwaggerAutoConfiguration

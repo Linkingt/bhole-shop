@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.bhole.shop</groupId>
+    <artifactId>authn</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <name>authn</name>
+    <description>认证工程</description>
+
+    <modules>
+        <module>authn-service</module>
+        <module>authn-api</module>
+        <module>authn-api</module>
+    </modules>
+
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <java.version>17</java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+
+        <spring-boot.version>3.0.0</spring-boot.version>
+        <spring-cloud.version>2021.0.6</spring-cloud.version>
+        <spring-cloud-commons.version>3.1.5</spring-cloud-commons.version>
+        <spring-cloud-alibaba.version>2021.1</spring-cloud-alibaba.version>
+        <nacos-config.version>2022.0.0.0-RC2</nacos-config.version>
+
+        <mybait-plus.version>3.4.3.2</mybait-plus.version>
+        <hutool.version>5.8.18</hutool.version>
+        <lombok.version>1.18.28</lombok.version>
+        <oauth2-authorization-server.version>1.0.0</oauth2-authorization-server.version>
+        <druid.version>1.2.8</druid.version>
+        <javax-servlet.version>4.0.1</javax-servlet.version>
+        <apm-toolkit-logback.version>8.15.0</apm-toolkit-logback.version>
+        <apm-toolkit-trace.version>8.15.0</apm-toolkit-trace.version>
+        <logstash-logback-encoder.version>7.3</logstash-logback-encoder.version>
+
+
+        <bhole-shop-common-core.version>1.0.01-SNAPSHOT</bhole-shop-common-core.version>
+        <bhole-shop-common-base.version>1.0.02-SNAPSHOT</bhole-shop-common-base.version>
+        <bhole-shop-common-swagger.version>1.0.03-SNAPSHOT</bhole-shop-common-swagger.version>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>${spring-cloud.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-dependencies</artifactId>
+                <version>${spring-boot.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-commons-dependencies</artifactId>
+                <version>${spring-cloud-commons.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.alibaba.cloud</groupId>
+                <artifactId>spring-cloud-alibaba-dependencies</artifactId>
+                <version>${spring-cloud-alibaba.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
+                <version>${nacos-config.version}</version>
+<!--                <exclusions>-->
+<!--                    <exclusion>-->
+<!--                        <artifactId>fastjson</artifactId>-->
+<!--                        <groupId>com.alibaba</groupId>-->
+<!--                    </exclusion>-->
+<!--                </exclusions>-->
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-starter-bootstrap</artifactId>
+                <version>${spring-cloud-commons.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.baomidou</groupId>
+                <artifactId>mybatis-plus-boot-starter</artifactId>
+                <version>${mybait-plus.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>cn.hutool</groupId>
+                <artifactId>hutool-all</artifactId>
+                <version>${hutool.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>${lombok.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework.security</groupId>
+                <artifactId>spring-security-oauth2-authorization-server</artifactId>
+                <version>${oauth2-authorization-server.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>druid-spring-boot-starter</artifactId>
+                <version>${druid.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>javax.servlet</groupId>
+                <artifactId>javax.servlet-api</artifactId>
+                <version>${javax-servlet.version}</version>
+                <scope>provided</scope>
+            </dependency>
+
+            <!--日志链路-->
+            <dependency>
+                <groupId>org.apache.skywalking</groupId>
+                <artifactId>apm-toolkit-logback-1.x</artifactId>
+                <version>${apm-toolkit-logback.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.skywalking</groupId>
+                <artifactId>apm-toolkit-trace</artifactId>
+                <version>${apm-toolkit-trace.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>net.logstash.logback</groupId>
+                <artifactId>logstash-logback-encoder</artifactId>
+                <version>${logstash-logback-encoder.version}</version>
+            </dependency>
+
+
+            <dependency>
+                <groupId>com.bhole.shop</groupId>
+                <artifactId>common-base</artifactId>
+                <version>${bhole-shop-common-base.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.bhole.shop</groupId>
+                <artifactId>common-swagger</artifactId>
+                <version>${bhole-shop-common-swagger.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.bhole.shop</groupId>
+                <artifactId>common-core</artifactId>
+                <version>${bhole-shop-common-core.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+</project>

@@ -1,0 +1,58 @@
+2023-06-04 12:47:44.210 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 12:47:44.388 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 12:47:45.451 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.authn]' package. Please check your configuration.
+2023-06-04 12:47:48.445 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-04 12:50:42.944 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-04 12:50:43.212 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 12:50:43.392 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 12:50:45.587 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-04 12:52:32.926 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-04 12:52:33.175 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 12:52:33.360 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 12:52:36.580 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-04 12:52:36.581 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-04 12:54:14.884 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-04 12:54:15.130 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 12:54:15.314 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 12:57:27.381 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-04 12:57:27.383 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-04 12:57:40.382 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-04 12:57:40.678 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 12:57:40.828 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 13:06:30.164 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-04 13:06:30.166 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-04 13:06:43.477 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-04 13:06:43.817 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 13:06:43.997 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 13:28:21.057 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-04 13:28:21.059 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-04 13:28:41.403 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-04 13:28:41.772 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 13:28:41.950 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 13:49:32.654 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-04 13:49:32.662 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-04 13:49:44.032 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-04 13:49:44.374 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 13:49:44.551 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 13:53:44.920 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-04 13:53:44.927 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-04 13:53:57.963 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-04 13:53:58.310 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 13:53:58.489 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 13:57:24.646 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-04 13:57:24.651 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-04 13:57:32.664 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-04 13:57:32.960 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 13:57:33.143 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 15:03:47.847 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-04 15:03:47.855 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-04 15:43:12.941 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-04 15:43:13.295 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 15:43:13.454 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 15:46:29.569 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-04 15:46:29.572 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-04 15:46:37.632 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-04 15:46:37.941 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 15:46:38.114 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-04 15:46:38.753 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-04 15:46:38.754 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end

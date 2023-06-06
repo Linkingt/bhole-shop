@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authn/authn-api/authn-api.iml" filepath="$PROJECT_DIR$/authn/authn-api/authn-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authn/authn-service/authn-service.iml" filepath="$PROJECT_DIR$/authn/authn-service/authn-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bhole-shop.iml" filepath="$PROJECT_DIR$/.idea/bhole-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collect/collect-api/collect-api.iml" filepath="$PROJECT_DIR$/collect/collect-api/collect-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collect/collect-service/collect-service.iml" filepath="$PROJECT_DIR$/collect/collect-service/collect-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-bean.iml" filepath="$PROJECT_DIR$/common-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataapi/dataapi-api/dataapi-api.iml" filepath="$PROJECT_DIR$/dataapi/dataapi-api/dataapi-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataapi/dataapi-service/dataapi-service.iml" filepath="$PROJECT_DIR$/dataapi/dataapi-service/dataapi-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order-api/order-api.iml" filepath="$PROJECT_DIR$/order/order-api/order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order-service/order-service.iml" filepath="$PROJECT_DIR$/order/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock/stock-api/stock-api.iml" filepath="$PROJECT_DIR$/stock/stock-api/stock-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock/stock-service/stock-service.iml" filepath="$PROJECT_DIR$/stock/stock-service/stock-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="stock-api" />
+        <module name="stock-service" />
+        <module name="authn-service" />
+        <module name="common-aop" />
+        <module name="dataapi-api" />
+        <module name="collect-service" />
+        <module name="order-api" />
+        <module name="common-bean" />
+        <module name="collect-api" />
+        <module name="authn-api" />
+        <module name="dataapi-service" />
+        <module name="common-swagger" />
+        <module name="order-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="authn-api" options="" />
+      <module name="authn-service" options="" />
+      <module name="collect-api" options="" />
+      <module name="collect-service" options="" />
+      <module name="dataapi-api" options="" />
+      <module name="dataapi-service" options="" />
+      <module name="order-api" options="" />
+      <module name="order-service" options="" />
+      <module name="stock-api" options="" />
+      <module name="stock-service" options="" />
+    </option>
+  </component>
+</project>

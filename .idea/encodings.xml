@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/authn/authn-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authn/authn-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authn/authn-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authn/authn-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authn/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collect/collect-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collect/collect-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collect/collect-service/common-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collect/collect-service/common-swagger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collect/collect-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collect/collect-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collect/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collect/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common-aop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common-bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common-bean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common-swagger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dataapi/dataapi-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dataapi/dataapi-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dataapi/dataapi-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dataapi/dataapi-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dataapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dataapi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order/order-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order/order-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order/order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock/stock-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock/stock-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock/stock-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock/stock-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,273 @@
+2023-06-01 09:07:01.285 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 09:07:01.418 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 09:07:02.793 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 09:07:05.729 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 09:07:05.730 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 09:13:23.152 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-01 09:13:23.475 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 09:13:23.650 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 09:13:25.540 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 09:13:25.541 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 09:17:04.821 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-01 09:17:05.170 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 09:17:05.327 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 09:25:07.157 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 09:25:07.158 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 09:25:20.648 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-01 09:25:21.285 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 09:25:21.442 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 09:34:14.184 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 09:34:14.191 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 10:01:05.315 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-01 10:01:05.638 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:01:05.809 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:01:07.760 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:01:07.761 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 10:02:15.407 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:02:15.593 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:02:16.799 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 10:02:19.162 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:02:19.162 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 10:03:04.733 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:03:04.868 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:03:06.001 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 10:03:08.206 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:03:08.207 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 10:07:26.172 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:07:26.355 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:07:27.991 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 10:07:31.300 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:08:45.097 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:08:45.281 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:08:46.276 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 10:08:48.354 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:20:28.970 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:20:29.133 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:20:30.238 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 10:20:32.299 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:20:32.300 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 10:22:59.240 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:22:59.424 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:23:00.527 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 10:23:02.662 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:23:02.662 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 10:31:00.329 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:31:00.505 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:31:01.900 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 10:31:04.167 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:31:49.041 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:31:49.224 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:31:50.044 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:31:50.045 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 10:33:21.690 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:33:21.868 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:33:22.864 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 10:33:24.963 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:37:05.746 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:37:05.931 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:37:07.226 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 10:37:09.438 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:37:09.439 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 10:39:32.676 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:39:32.832 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:39:34.007 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 10:39:39.211 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:43:51.729 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:43:51.912 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:43:52.902 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 10:46:15.486 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:46:15.486 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 10:46:15.487 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 10:46:15.487 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 10:47:44.154 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:47:44.335 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:47:45.229 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.authn]' package. Please check your configuration.
+2023-06-01 10:47:49.244 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 10:47:49.245 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 10:47:49.245 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 10:47:49.246 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 10:48:00.991 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:48:01.170 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 10:48:02.117 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.authn]' package. Please check your configuration.
+2023-06-01 11:01:51.071 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 11:01:51.072 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 11:01:51.072 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 11:01:51.072 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 11:02:05.990 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:02:06.171 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:02:07.121 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.authn]' package. Please check your configuration.
+2023-06-01 11:06:32.856 [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-673a59f6-c302-4714-9d91-538c78b9b2a1] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:06:33.060 [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-673a59f6-c302-4714-9d91-538c78b9b2a1] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:06:38.223 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 11:06:38.223 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 11:06:38.223 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 11:06:38.223 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 11:06:51.290 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:06:51.462 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:06:52.408 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.authn]' package. Please check your configuration.
+2023-06-01 11:08:25.963 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 11:08:25.963 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 11:08:25.963 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 11:08:25.964 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 11:08:38.749 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:08:38.924 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:08:40.084 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.authn]' package. Please check your configuration.
+2023-06-01 11:19:16.629 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 11:19:16.629 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 11:19:16.630 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 11:19:16.630 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 11:19:27.455 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:19:27.625 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:19:28.669 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.authn]' package. Please check your configuration.
+2023-06-01 11:20:08.871 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 11:20:08.876 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 11:20:08.883 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 11:20:08.884 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 11:20:21.607 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:20:21.783 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:20:22.775 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.authn]' package. Please check your configuration.
+2023-06-01 11:48:19.346 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 11:48:19.346 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 11:48:19.347 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 11:48:19.347 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 11:58:19.220 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:58:19.397 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 11:58:20.380 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 11:58:22.552 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 11:58:22.553 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 13:06:53.388 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 13:06:53.568 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 13:06:54.525 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 13:12:05.953 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 13:12:05.953 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 13:12:05.953 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 13:12:05.953 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 13:12:18.430 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 13:12:18.612 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 13:12:19.564 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 13:33:03.249 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 13:33:03.250 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 13:33:03.270 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 13:33:03.271 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 13:35:46.434 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 13:35:46.612 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 13:35:47.604 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 13:39:37.201 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 13:39:37.203 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 13:39:37.204 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 13:39:37.204 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 13:39:47.272 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 13:39:47.453 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 13:39:48.389 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 13:52:39.573 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 13:52:39.576 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 13:52:39.577 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 13:52:39.577 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 13:52:47.968 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 13:52:48.149 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 13:52:49.096 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 13:57:57.622 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 13:57:57.629 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 13:57:57.630 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 13:57:57.629 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 13:58:31.505 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 13:58:31.684 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 13:58:32.820 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 14:03:25.674 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 14:03:25.675 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 14:03:25.678 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 14:03:25.679 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 14:03:34.712 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:03:34.892 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:03:35.861 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 14:04:52.024 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 14:04:52.025 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 14:04:52.025 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 14:04:52.026 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 14:05:01.804 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:05:01.980 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:05:03.003 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 14:08:13.395 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 14:08:13.395 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 14:08:13.396 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 14:08:13.397 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 14:08:25.566 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:08:25.745 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:08:26.967 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 14:12:46.310 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 14:12:46.310 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 14:12:46.311 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 14:12:46.312 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 14:12:58.545 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:12:58.731 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:12:59.679 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 14:18:13.843 [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-673a59f6-c302-4714-9d91-538c78b9b2a1] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:18:14.043 [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-673a59f6-c302-4714-9d91-538c78b9b2a1] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:18:17.974 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 14:18:17.975 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 14:18:17.975 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 14:18:17.976 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 14:18:27.927 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:18:28.110 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:18:29.095 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 14:19:59.575 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 14:19:59.575 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 14:19:59.575 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 14:19:59.577 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 14:20:09.661 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:20:09.851 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:20:10.690 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 14:21:51.834 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 14:21:51.834 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 14:21:51.834 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 14:21:51.835 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 14:22:02.173 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:22:02.357 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:22:03.252 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 14:22:08.230 [com.alibaba.nacos.naming.push.receiver] WARN  [com.alibaba.nacos.client.naming] - out of date data received, old-t: 1685600528211, new-t: 1685600526194
+2023-06-01 14:24:55.621 [com.alibaba.nacos.client.naming.updater] WARN  [com.alibaba.nacos.client.naming] - out of date data received, old-t: 1685600692104, new-t: 1685600691575
+2023-06-01 14:26:12.084 [com.alibaba.nacos.naming.push.receiver] WARN  [com.alibaba.nacos.client.naming] - out of date data received, old-t: 1685600770235, new-t: 1685600754564
+2023-06-01 14:27:20.868 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 14:27:20.869 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 14:27:20.869 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 14:27:20.869 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 14:27:34.190 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:27:34.369 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[collect.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:27:35.307 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.collect]' package. Please check your configuration.
+2023-06-01 14:36:59.197 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 14:36:59.200 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 14:36:59.203 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 14:36:59.203 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 14:42:21.743 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:42:21.913 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:42:22.976 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.authn]' package. Please check your configuration.
+2023-06-01 14:43:32.302 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 14:43:32.302 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 14:43:32.303 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 14:43:32.303 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 14:43:43.454 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:43:43.638 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:43:44.609 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.authn]' package. Please check your configuration.
+2023-06-01 14:45:52.605 [http-nio-8001-exec-9] WARN  [com.alibaba.druid.pool.DruidAbstractDataSource] - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/authn?useUnicode=true&characterEncoding=UTF8, version : 1.2.8, lastPacketReceivedIdleMillis : 126099
+2023-06-01 14:45:52.608 [http-nio-8001-exec-9] WARN  [com.alibaba.druid.pool.DruidAbstractDataSource] - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/authn?useUnicode=true&characterEncoding=UTF8, version : 1.2.8, lastPacketReceivedIdleMillis : 126696
+2023-06-01 14:45:52.609 [http-nio-8001-exec-9] WARN  [com.alibaba.druid.pool.DruidAbstractDataSource] - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/authn?useUnicode=true&characterEncoding=UTF8, version : 1.2.8, lastPacketReceivedIdleMillis : 126713
+2023-06-01 14:45:52.612 [http-nio-8001-exec-9] WARN  [com.alibaba.druid.pool.DruidAbstractDataSource] - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/authn?useUnicode=true&characterEncoding=UTF8, version : 1.2.8, lastPacketReceivedIdleMillis : 126732
+2023-06-01 14:45:52.614 [http-nio-8001-exec-9] WARN  [com.alibaba.druid.pool.DruidAbstractDataSource] - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/authn?useUnicode=true&characterEncoding=UTF8, version : 1.2.8, lastPacketReceivedIdleMillis : 126753
+2023-06-01 14:51:50.469 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 14:51:50.471 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 14:51:50.474 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 14:51:50.474 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 14:52:01.137 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:52:01.317 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 14:52:02.381 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.authn]' package. Please check your configuration.
+2023-06-01 15:15:28.034 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 15:15:28.036 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 15:15:28.039 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 15:15:28.040 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-01 15:15:39.403 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 15:15:39.587 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-01 15:15:40.570 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.bhole.shop.authn]' package. Please check your configuration.
+2023-06-01 16:22:50.384 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Start destroying Publisher
+2023-06-01 16:22:50.385 [Thread-12] WARN  [com.alibaba.nacos.common.notify.NotifyCenter] - [NotifyCenter] Destruction of the end
+2023-06-01 16:22:50.385 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-01 16:22:50.386 [Thread-1] WARN  [com.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end

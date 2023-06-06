@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: auth
+  cloud:
+    nacos:
+      config:
+        server-addr: localhost:8848
+        namespace: 673a59f6-c302-4714-9d91-538c78b9b2a1
+        file-extension: yml
+        group: DEFAULT_GROUP
+        shared-configs:
+          - dataId: auth.yml
+            group: DEFAULT_GROUP
+            refresh: true
+      #          - dataId: redis.yml
+      #            group: order
+      #            refresh: true
+      discovery:
+        server-addr: localhost:8848
+        namespace: 673a59f6-c302-4714-9d91-538c78b9b2a1
