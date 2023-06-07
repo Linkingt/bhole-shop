@@ -38,6 +38,7 @@ public class ApiFilter extends OncePerRequestFilter {
 
         if (isIgnore.apply(url)) {
             filterChain.doFilter(request, response);
+            return;
         }
 
         // FIXME skywalking

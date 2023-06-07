@@ -109,11 +109,15 @@
 		</dependency>
 		<dependency>
 			<groupId>com.bhole.shop</groupId>
-			<artifactId>common-swagger</artifactId>
+			<artifactId>common-core</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>com.bhole.shop</groupId>
-			<artifactId>common-core</artifactId>
+			<artifactId>common-redis</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.bhole.shop</groupId>
+			<artifactId>common-swagger</artifactId>
 		</dependency>
 	</dependencies>
 

@@ -1,5 +1,22 @@
-2023-06-06 16:34:18.740 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
-2023-06-06 16:34:19.162 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
-2023-06-06 16:34:19.300 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
-2023-06-06 16:58:06.905 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
-2023-06-06 16:58:06.913 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-07 16:47:24.334 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-07 16:47:24.682 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-07 16:47:24.846 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-07 16:47:28.644 [main] WARN  [i.n.resolver.dns.DnsServerAddressStreamProviders] - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2023-06-07 16:47:29.327 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-07 16:47:29.328 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-07 16:49:12.876 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-07 16:49:13.189 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-07 16:49:13.367 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-07 16:49:17.039 [main] WARN  [i.n.resolver.dns.DnsServerAddressStreamProviders] - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2023-06-07 16:49:17.755 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-07 17:07:55.967 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-07 17:07:56.259 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-07 17:07:56.437 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-07 17:08:01.548 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-07 17:08:01.548 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end
+2023-06-07 17:12:38.151 [main] WARN  [com.alibaba.nacos.client.logging.NacosLogging] - Load Logback Configuration of Nacos fail, message: org/slf4j/impl/StaticLoggerBinder
+2023-06-07 17:12:38.476 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-07 17:12:38.650 [main] WARN  [c.a.cloud.nacos.client.NacosPropertySourceBuilder] - Ignore the empty nacos configuration and get it based on dataId[auth.yml] & group[DEFAULT_GROUP]
+2023-06-07 17:12:42.459 [main] WARN  [i.n.resolver.dns.DnsServerAddressStreamProviders] - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2023-06-07 17:28:39.690 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-07 17:28:39.692 [Thread-1] WARN  [c.alibaba.nacos.common.http.HttpClientBeanHolder] - [HttpClientBeanHolder] Destruction of the end

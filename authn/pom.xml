@@ -45,6 +45,7 @@
 
         <bhole-shop-common-core.version>1.0.01-SNAPSHOT</bhole-shop-common-core.version>
         <bhole-shop-common-base.version>1.0.02-SNAPSHOT</bhole-shop-common-base.version>
+        <bhole-shop-common-redis.version>1.0.01-SNAPSHOT</bhole-shop-common-redis.version>
         <bhole-shop-common-swagger.version>1.0.03-SNAPSHOT</bhole-shop-common-swagger.version>
     </properties>
 
@@ -158,16 +159,21 @@
                 <artifactId>common-base</artifactId>
                 <version>${bhole-shop-common-base.version}</version>
             </dependency>
-            <dependency>
-                <groupId>com.bhole.shop</groupId>
-                <artifactId>common-swagger</artifactId>
-                <version>${bhole-shop-common-swagger.version}</version>
-            </dependency>
 
             <dependency>
                 <groupId>com.bhole.shop</groupId>
                 <artifactId>common-core</artifactId>
                 <version>${bhole-shop-common-core.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.bhole.shop</groupId>
+                <artifactId>common-redis</artifactId>
+                <version>${bhole-shop-common-redis.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.bhole.shop</groupId>
+                <artifactId>common-swagger</artifactId>
+                <version>${bhole-shop-common-swagger.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.bhole.shop.common.redis.config.RedisConfiguration

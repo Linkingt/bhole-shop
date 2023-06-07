@@ -12,6 +12,7 @@
         <module>common-swagger</module>
         <module>common-base</module>
         <module>common-core</module>
+        <module>common-redis</module>
     </modules>
 
     <properties>
